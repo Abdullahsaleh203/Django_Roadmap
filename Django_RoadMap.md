@@ -15,7 +15,7 @@ Here’s a **perfect and comprehensive roadmap** for mastering Django, from begi
   - Working with libraries and package management (pip, virtualenv).
 - **Resources**:
   - *Automate the Boring Stuff with Python* (book)
-  - Python courses on [Coursera](https://www.coursera.org/) or [Codecademy](https://www.codecademy.com/)
+  - Python courses on [Coursera](https://www.coursera.org/) or [Codecademy](https://www.codecademy.com/) or [YouTube](https://www.youtube.com/)
 
 #### **2. Set Up Django Environment**
 
